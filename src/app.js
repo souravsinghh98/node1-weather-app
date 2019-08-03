@@ -33,7 +33,6 @@ app.get('',(req,res)=>{
 app.get('/help',(req,res)=>{
     res.render('help',{
         title:'Help page',
-        message:'Any queries pls contact admin',
         name:'Sourav Singh'
     })
 })
