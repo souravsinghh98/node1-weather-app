@@ -1,4 +1,3 @@
-console.log('fsegs')
 const weatherForm=document.querySelector('form')
 const messageOne=document.getElementById("msg-1")
 const messageTwo=document.getElementById("msg-2")
